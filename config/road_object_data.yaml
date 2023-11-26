@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/Capstone/dataset/bdd100k/images/train/
+val: /content/drive/MyDrive/Capstone/dataset/bdd100k/images/val/
+test: /content/drive/MyDrive/Capstone/dataset/bdd100k/images/test/
+nc: 10
+names: ["car", "bus", "person", "bike","truck","motor","train","rider","traffic sign","traffic light"]
